@@ -125,7 +125,7 @@ tests.
 [Cornichon](https://pypi.org/project/cornichon/) is a small Gherkin DSL parser
 that generates stub code for GoogleTest.
 
-## Contributing Changes
+##Contributing Changes
 
 Please read
 [`CONTRIBUTING.md`](https://github.com/google/googletest/blob/main/CONTRIBUTING.md)
